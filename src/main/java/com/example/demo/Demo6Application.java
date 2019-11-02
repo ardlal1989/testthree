@@ -10,6 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @SpringBootApplication
 @RestController
+@Controller
 public class Demo6Application {
 
 	public static void main(String[] args) {
